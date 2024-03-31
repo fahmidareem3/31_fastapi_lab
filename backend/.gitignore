@@ -1,0 +1,32 @@
+# .env file
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyz
+*.pyzw
+*.py~
+.pyre/
+.pytest_cache/
+.pytest_history
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# Virtual Environment
+venv/
+venv/bin/
